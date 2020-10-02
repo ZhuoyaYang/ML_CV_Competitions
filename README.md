@@ -4,6 +4,7 @@
 |        | 类别 |  初赛  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
 | [教育手写公式识别](https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4)  | OCR | 9.30-10.15 | 国家科技部 | 8+3\*2+1\*3| 时间短节奏快 |
+| [吸烟打电话检测](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=3)  | 检测 | 8.8-10.16 | / | 5+3\*2+2\*3| 
 | [AI+行人重识别](https://www.datafountain.cn/competitions/454) | ReID | 8.18-10.23 | 学术界 \& 华为 |  100+30\*2+10\*3 
 | [AI+遥感影像](https://www.datafountain.cn/competitions/457) | 分割（高分辨率） | 8.18-10.23 | 学术界 \& 华为 |  100+30\*2+10\*3
 | [伪造图像的对抗攻击-赛道2](https://tianchi.aliyun.com/competition/entrance/531812/introduction)  | 对抗攻击 | 10.12-11.16 | 天池 \& 阿里安全 \& THU | 6+2+1 | 
