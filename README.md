@@ -8,9 +8,10 @@
 | [遥感影像地块分割](https://www.datafountain.cn/competitions/475)  | 分割 | 11.29 | CCF-BDCI \& 百度 | 10w | 限定paddle
 | [2020 Objects365](http://competition.baai.ac.cn/c/36/format/introduce?sourceType=public) | 检测 | 12.5 | 智源 \& 旷视 | 5w | 场景简单，数据较大
 | [小学数学应用题自动解题](https://www.datafountain.cn/competitions/467)  | NLU | 12.6 | CCF-BDCI | 5w | 
-| [企业非法集资风险预测](https://www.datafountain.cn/competitions/469)  | ML（特征工程） | 12.6 | CCF-BDCI | 5w  | 
-| [路况状态时空预测](https://www.datafountain.cn/competitions/466)  | ML（时空轨迹） | 12.6 | CCF-BDCI \& 滴滴 | 5w |  
+| [企业非法集资风险预测](https://www.datafountain.cn/competitions/469)  | ML | 12.6 | CCF-BDCI | 5w  | 
+| [路况状态时空预测](https://www.datafountain.cn/competitions/466)  | ML | 12.6 | CCF-BDCI \& 滴滴 | 5w |  
 | [“华为云杯”2020人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000041322/introduction)  | 分割 | 12.8 | 华为云 | 33w | 大分辨率
+| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.8 | Kaggle | $10w | 
 
 
 # Ended
