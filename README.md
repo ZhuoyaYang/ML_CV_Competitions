@@ -11,7 +11,7 @@
 | [企业非法集资风险预测](https://www.datafountain.cn/competitions/469)  | ML | 12.6 | CCF-BDCI | 5w  | 
 | [路况状态时空预测](https://www.datafountain.cn/competitions/466)  | ML | 12.6 | CCF-BDCI \& 滴滴 | 5w |  
 | [“华为云杯”2020人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000041322/introduction)  | 分割 | 12.8 | 华为云 | 33w | 大分辨率
-| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.31 | Kaggle | $10w | 
+| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.31 | Kaggle | $10w | Code Competition，限时
 
 
 # Ended
