@@ -3,7 +3,7 @@
 
 |        | 类别 |  初赛截止  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
-| [伪造图像的对抗攻击-赛道2](https://tianchi.aliyun.com/competition/entrance/531812/introduction)  | 对抗攻击 | 11.16 | 天池 \& 阿里安全 \& THU | 12.7w | 
+
 | [2020GDE全球开发者大赛·KPI异常检测](https://competition.huaweicloud.com/information/1000041319/introduction?track=107)  | 异常检测 AIOps | 11.22 | 华为云 | 12w | 
 | [遥感影像地块分割](https://www.datafountain.cn/competitions/475)  | 分割 | 11.29 | CCF-BDCI \& 百度 | 10w | 限定paddle
 | [短袖短裤识别](https://www.cvmart.net/race/9922/base)  | 检测 | 11.30 | / | 5.4w | 线上赛
@@ -13,7 +13,10 @@
 | [企业非法集资风险预测](https://www.datafountain.cn/competitions/469)  | ML | 12.6 | CCF-BDCI | 5w  | 
 | [路况状态时空预测](https://www.datafountain.cn/competitions/466)  | ML | 12.6 | CCF-BDCI \& 滴滴 | 5w |  
 | [“华为云杯”2020人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000041322/introduction)  | 分割 | 12.8 | 华为云 | 33w | 大分辨率
-| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.31 | Kaggle | $10w | Code Competition，限时
+| [Impact Detection](kaggle.com/c/nfl-impact-detection/overview)  | 检测 | 12.28 | Kaggle | \$7.5w | 
+| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.31 | Kaggle | \$10w | Code Competition，限时  
+| [Hacking the Kidney](kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$6w | Code Competition，限时 
+
 
 
 # Ended
@@ -28,4 +31,5 @@
 | [吸烟打电话检测](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=3)  | 检测 | 10.16 | / | 21w | 
 | [AI+行人重识别](https://www.datafountain.cn/competitions/454) | ReID | 10.23 | 华为 |  198w
 | [AI+遥感影像](https://www.datafountain.cn/competitions/457) | 分割（高分辨率） | 10.23 | 华为 |  198w
+| [伪造图像的对抗攻击-赛道2](https://tianchi.aliyun.com/competition/entrance/531812/introduction)  | 对抗攻击 | 11.16 | 天池 \& 阿里安全 \& THU | 12.7w | 
 
