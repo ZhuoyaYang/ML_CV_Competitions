@@ -3,7 +3,7 @@
 
 |        | 类别 |  初赛截止  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
-| [2020GDE全球开发者大赛·KPI异常检测](https://competition.huaweicloud.com/information/1000041319/introduction?track=107)  | 异常检测 AIOps | 11.22 | 华为云 | 12w | 
+| [2020GDE全球开发者大赛·KPI异常检测](https://competition.huaweicloud.com/information/1000041319/introduction?track=107)  | 异常检测 | 11.22 | 华为云 | 12w | 
 | [遥感影像地块分割](https://www.datafountain.cn/competitions/475)  | 分割 | 11.29 | CCF-BDCI \& 百度 | 10w | 限定paddle
 | [短袖短裤识别](https://www.cvmart.net/race/9922/base)  | 检测 | 11.30 | / | 5.4w | 线上赛
 | [小摊贩占道识别](https://www.cvmart.net/race/9923/base)  | 检测 | 11.30 | / | 5.4w | 线上赛
@@ -12,9 +12,9 @@
 | [企业非法集资风险预测](https://www.datafountain.cn/competitions/469)  | ML | 12.6 | CCF-BDCI | 5w  | 
 | [路况状态时空预测](https://www.datafountain.cn/competitions/466)  | ML | 12.6 | CCF-BDCI \& 滴滴 | 5w |  
 | [“华为云杯”2020人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000041322/introduction)  | 分割 | 12.8 | 华为云 | 33w | 大分辨率
-| [Impact Detection](kaggle.com/c/nfl-impact-detection/overview)  | 检测 | 12.28 | Kaggle | \$ 7.5w | 
+| [Impact Detection](https://www.kaggle.com/c/nfl-impact-detection/overview)  | 检测 | 12.28 | Kaggle | \$ 7.5w | 
 | [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.31 | Kaggle | \$ 10w | Code Competition，限时  
-| [Hacking the Kidney](kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$ 6w | Code Competition，限时 
+| [Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$ 6w | Code Competition，限时 
 
 
 
