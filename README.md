@@ -15,6 +15,7 @@
 | [Impact Detection](https://www.kaggle.com/c/nfl-impact-detection/overview)  | 检测 | 12.28 | Kaggle | \$ 7.5w | 
 | [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | ML | 12.31 | Kaggle | \$ 10w | Code Competition，限时  
 | [Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$ 6w | Code Competition，限时 
+| [Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview)  | 音频检测 | 2021.2.10 | Kaggle | \$ 1.5w |  
 
 
 
