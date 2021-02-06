@@ -1,11 +1,20 @@
 
+
 # Active
 
 |        | 类别 |  初赛截止  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
 | [Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview)  | 音频检测 | 2021.2.10 | Kaggle | \$ 1.5w | 
 | [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview) | 分类 | 2021.2.11 | Kaggle | \$ 1.8w | Code Competition 
-| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview) | 金融交易 | 2021.2.15 | Kaggle | \$ 10w | Code Competition
+| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview) | 金融交易 | 2021.2.15 | Kaggle | \$ 10w | Code Competition 
+| [PAKDD智能运维](https://tianchi.aliyun.com/competition/entrance/531874/introduction) | AIOps | 2021.3.21 | 天池 | \$ 3w | 挂靠PAKDD，可借鉴[第一届](https://tianchi.aliyun.com/competition/entrance/231775/forum) 
+| [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
+| [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 复杂 | 2021.4.7 | 天池 | 50w | 
+| [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
+| [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 10w | 
+
+
+
 
 
 
@@ -22,7 +31,7 @@
 | [AI+行人重识别](https://www.datafountain.cn/competitions/454) | ReID | 10.23 | 华为 |  198w
 | [AI+遥感影像](https://www.datafountain.cn/competitions/457) | 分割（高分辨率） | 10.23 | 华为 |  198w
 | [伪造图像的对抗攻击-赛道2](https://tianchi.aliyun.com/competition/entrance/531812/introduction)  | 对抗攻击 | 11.16 | 天池 \& 阿里安全 \& THU | 12.7w | 
-| [2020GDE全球开发者大赛·KPI异常检测](https://competition.huaweicloud.com/information/1000041319/introduction?track=107)  | 异常检测 | 11.22 | 华为云 | 12w | 
+| [2020GDE全球开发者大赛·KPI异常检测](https://competition.huaweicloud.com/information/1000041319/introduction?track=107)  | AIOps | 11.22 | 华为云 | 12w | 
 | [遥感影像地块分割](https://www.datafountain.cn/competitions/475)  | 分割 | 11.29 | CCF-BDCI \& 百度 | 10w | 限定paddle
 | [短袖短裤识别](https://www.cvmart.net/race/9922/base)  | 检测 | 11.30 | / | 5.4w | 线上赛
 | [小摊贩占道识别](https://www.cvmart.net/race/9923/base)  | 检测 | 11.30 | / | 5.4w | 线上赛
@@ -34,4 +43,5 @@
 | [Impact Detection](https://www.kaggle.com/c/nfl-impact-detection/overview)  | 检测 | 12.28 | Kaggle | \$ 7.5w | 
 | [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | Knowledge Tracking | 12.31 | Kaggle | \$ 10w | Code Competition，限时  
 | [Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$ 6w | Code Competition，限时 
+| [2021广东工业智造](https://tianchi.aliyun.com/competition/entrance/531846/introduction) | 目标检测 | 2021.1.29 | 天池 \& 政府 | 25w | 可借鉴的比赛很多，mmdetection也很成熟。解决方案难出彩，刷榜又意义不大。
 
