@@ -8,6 +8,7 @@
 | [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview) | 分类 | 2021.2.11 | Kaggle | \$ 1.8w | Code Competition 
 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview) | 金融交易 | 2021.2.15 | Kaggle | \$ 10w | Code Competition 
 | [PAKDD智能运维](https://tianchi.aliyun.com/competition/entrance/531874/introduction) | AIOps | 2021.3.21 | 天池 | \$ 3w | 挂靠PAKDD，可借鉴[第一届](https://tianchi.aliyun.com/competition/entrance/231775/forum) 
+| [CVPR2021 安全AI第六期](https://tianchi.aliyun.com/competition/entrance/531847/introduction) | / | 2021.3.24 | 天池 | \$ 5w / 赛道 |
 | [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
 | [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 复杂 | 2021.4.7 | 天池 | 50w | 
 | [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
