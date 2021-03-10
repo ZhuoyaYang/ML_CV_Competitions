@@ -9,7 +9,8 @@
 | [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
 | [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 复杂 | 2021.4.7 | 天池 | 50w | 
 | [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
-| [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 10w | 
+| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 复杂 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | 图像匹配，少量文本信息
+| [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
 | [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系
 
 
