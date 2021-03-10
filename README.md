@@ -15,7 +15,7 @@
 | [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
 | [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+短文本二分类 `近期推荐`
 | [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
-| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 复杂 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | 图像匹配，提供了少量文本信息
+| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 复杂 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition，图像匹配，提供了少量文本信息
 | [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
 | [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 `近期推荐`
 
@@ -49,8 +49,8 @@
 | [路况状态时空预测](https://www.datafountain.cn/competitions/466)  | ML | 12.6 | CCF-BDCI \& 滴滴 | 5w |  
 | [“华为云杯”2020人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000041322/introduction)  | 分割 | 12.8 | 华为云 | 33w | 大分辨率
 | [Impact Detection](https://www.kaggle.com/c/nfl-impact-detection/overview)  | 检测 | 12.28 | Kaggle | \$ 7.5w | 
-| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | Knowledge Tracking | 12.31 | Kaggle | \$ 10w | Code Competition，限时  
-| [Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$ 6w | Code Competition，限时 
+| [Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)  | Knowledge Tracking | 12.31 | Kaggle | \$ 10w | Code Competition
+| [Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation/overview)  | 分割 | 2021.1.19 | Kaggle | \$ 6w | Code Competition
 | [2021广东工业智造](https://tianchi.aliyun.com/competition/entrance/531846/introduction) | 目标检测 | 2021.1.29 | 天池 \& 政府 | 25w | 可借鉴的比赛很多，mmdetection也很成熟。解决方案难出彩，刷榜又意义不大。
 | [Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview)  | 音频检测 | 2021.2.10 | Kaggle | \$ 1.5w | 
 | [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview) | 分类 | 2021.2.11 | Kaggle | \$ 1.8w | Code Competition 
