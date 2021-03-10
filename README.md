@@ -1,8 +1,10 @@
 
-放我觉得有意思的比赛，不全面。赛题有意思 or 主办方有名、有会议挂靠 or 钱多
+放我觉得有意思的比赛，不全面，参考以下标准：
+- 赛题有意思 
+- 主办方有名、有会议挂靠
+- 钱多
 
-会在Active的比赛中标注1-2个<font color='red'>近期推荐</font>
-
+会在Active的比赛中标注1-2个`近期推荐`，为本人近期关注，仅供参考。
 
 # Active
 
@@ -11,11 +13,11 @@
 | [PAKDD智能运维](https://tianchi.aliyun.com/competition/entrance/531874/introduction) | AIOps | 2021.3.21 | 天池 | \$ 3w | 挂靠PAKDD，可借鉴[第一届](https://tianchi.aliyun.com/competition/entrance/231775/forum) 
 | [CVPR2021 安全AI第六期](https://tianchi.aliyun.com/competition/entrance/531847/introduction) | / | 2021.3.24 | 天池 | \$ 5w / 赛道 |
 | [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
-| [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+短文本二分类 <font color='red'>（近期推荐）</font>
+| [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+短文本二分类 `近期推荐`
 | [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
 | [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 复杂 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | 图像匹配，提供了少量文本信息
 | [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
-| [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 <font color='red'>（近期推荐）</font>
+| [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 `近期推荐`
 
 
 
