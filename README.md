@@ -18,7 +18,7 @@
 | [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
 | [KDD Cup 2021 Track1](https://compete.hexagon-ml.com/practice/competition/39/) | 时间序列异常检测 | 2021.4.7 | KDD | \$ 0.35w| 
 | [KDD Cup 2021 Track2](https://ogb.stanford.edu/kddcup2021/) | Graph | 2021.4.30 | KDD | / | 数据集250G
-| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition，挺有意思的 `近期推荐`
+| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition，挺有意思的 `近期推荐`
 | [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
 | [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 `近期推荐`
 | [KDD Cup 2021 Track3](http://www.yunqiacademy.org/) | 交通优化 | 2021.6.1(第一轮评测结束) | KDD | \$ 0.95w|
