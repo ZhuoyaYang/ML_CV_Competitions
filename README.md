@@ -11,12 +11,12 @@
 |        | 类别 |  报名/初赛截止  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
 | [KDD Cup 2021 Track2](https://ogb.stanford.edu/kddcup2021/) | Graph | 2021.4.30 | KDD | / | 数据集250G
-| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition。亲测非常抖，赛题有意思，但是不建议。
+| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition。亲测非常抖，赛题有意思，但是不建议
 | [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
 | [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 `近期推荐`
 | [KDD Cup 2021 Track3](http://www.yunqiacademy.org/) | 交通优化 | 2021.6.1(第一轮评测结束) | KDD | \$ 0.95w|
 | [KDD Cup 2021 Track1](https://compete.hexagon-ml.com/practice/competition/39/) | 时间序列异常检测 | 2021.6.1 | KDD | \$ 0.35w| 
-| [ACM MM2021 安全AI第七期：鲁棒性标识检测](https://tianchi.aliyun.com/competition/entrance/531888/information) | 商标检测 | 2021.6.3 | 天池 | 30w | 题目是有意义的（电商场景），挂靠ACM MM，钱到位，但数据集较大（60w张）
+| [ACM MM2021 安全AI第七期：鲁棒性标识检测](https://tianchi.aliyun.com/competition/entrance/531888/information) | 商标检测 | 2021.6.3 | 天池 | 30w | 题目是有意义的（电商场景），挂靠ACM MM，钱到位，但数据集较大（60w张）`近期推荐`
 
 
 
