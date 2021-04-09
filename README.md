@@ -10,15 +10,8 @@
 
 |        | 类别 |  报名/初赛截止  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
-| [PAKDD智能运维](https://tianchi.aliyun.com/competition/entrance/531874/introduction) | AIOps | 2021.3.21 | 天池 | \$ 3w | 挂靠PAKDD，可借鉴[第一届](https://tianchi.aliyun.com/competition/entrance/231775/forum) 
-| [CVPR2021 安全AI第六期](https://tianchi.aliyun.com/competition/entrance/531847/introduction) | / | 2021.3.24 | 天池 | \$ 5w / 赛道 |
-| [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
-| [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+文本分类 
-| [小布助手对话短文本语义匹配](https://tianchi.aliyun.com/competition/entrance/531851/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+文本分类 [baseline bert](https://kexue.fm/archives/8213)  
-| [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
-| [KDD Cup 2021 Track1](https://compete.hexagon-ml.com/practice/competition/39/) | 时间序列异常检测 | 2021.4.7 | KDD | \$ 0.35w| 
 | [KDD Cup 2021 Track2](https://ogb.stanford.edu/kddcup2021/) | Graph | 2021.4.30 | KDD | / | 数据集250G
-| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition，挺有意思的 `近期推荐`
+| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition。亲测非常抖，赛题有意思，但是不建议。
 | [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
 | [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 `近期推荐`
 | [KDD Cup 2021 Track3](http://www.yunqiacademy.org/) | 交通优化 | 2021.6.1(第一轮评测结束) | KDD | \$ 0.95w|
@@ -59,4 +52,11 @@
 | [Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview)  | 音频检测 | 2021.2.10 | Kaggle | \$ 1.5w | 
 | [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview) | 分类 | 2021.2.11 | Kaggle | \$ 1.8w | Code Competition 
 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview) | 金融交易 | 2021.2.15 | Kaggle | \$ 10w | Code Competition，用未来数据评测，评测周期很长
+| [PAKDD智能运维](https://tianchi.aliyun.com/competition/entrance/531874/introduction) | AIOps | 2021.3.21 | 天池 | \$ 3w | 挂靠PAKDD，可借鉴[第一届](https://tianchi.aliyun.com/competition/entrance/231775/forum) 
+| [CVPR2021 安全AI第六期](https://tianchi.aliyun.com/competition/entrance/531847/introduction) | / | 2021.3.24 | 天池 | \$ 5w / 赛道 |
+| [AI Earth](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 气象预测-时空序列 | 2021.3.24 | 天池 | 20w | 
+| [医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+文本分类 
+| [小布助手对话短文本语义匹配](https://tianchi.aliyun.com/competition/entrance/531851/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+文本分类 [baseline bert](https://kexue.fm/archives/8213)  
+| [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
+| [KDD Cup 2021 Track1](https://compete.hexagon-ml.com/practice/competition/39/) | 时间序列异常检测 | 2021.4.7 | KDD | \$ 0.35w| 
 
