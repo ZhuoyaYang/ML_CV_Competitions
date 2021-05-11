@@ -3,7 +3,7 @@
 - 赛题有意思 
 - 主办方有名、有会议挂靠
 - 钱多
-- 个人偏好场景较复杂，`没有固定pipeline`的工业届比赛
+- 个人偏好场景较复杂，`没有固定pipeline`、`探索性较强`的工业届比赛
 
 什么比赛不会放在这里：
 - 这几年目标检测/分割不要太多，如果不是场景非常有意思/钱很多/主办方非常有名不会放在里面
@@ -16,16 +16,13 @@
 会在Active的比赛中标注1-2个`近期推荐`，为本人近期关注，仅供参考。
 
 # Active
-
 |        | 类别 |  报名/初赛截止  |  主办方 | 奖金 |  备注 |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |
-| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition。赛题有意思，工业届真实场景，值得尝试
-| [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
-| [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 
 | [KDD Cup 2021 Track3](http://www.yunqiacademy.org/) | 交通优化 | 2021.6.1(第一轮评测结束) | KDD | \$ 0.95w|
 | [KDD Cup 2021 Track1](https://compete.hexagon-ml.com/practice/competition/39/) | 时间序列异常检测 | 2021.6.1 | KDD | \$ 0.35w| 
 | [ACM MM2021 安全AI第七期：鲁棒性标识检测](https://tianchi.aliyun.com/competition/entrance/531888/information) | 商标检测 | 2021.6.3 | 天池 | 30w | 题目是有意义的（电商场景），挂靠ACM MM，钱到位，但数据集较大（60w张）
 | [ACM MM 2021 Watch and Buy:](https://tianchi.aliyun.com/competition/entrance/531893/introduction) | 多模态/服装识别 | 2021.6.20 | 天池 | \$ 1w | 和[之前比赛](https://tianchi.aliyun.com/competition/entrance/231772/information)题目一样。挂靠ACM MM，但数据集较大（100w张），卡多可以尝试 
+| [微信大数据挑战赛](https://algo.weixin.qq.com/) | 推荐 | 2021.6.30 | 微信WXG | 66w | `非常推荐`，腾讯很少举办比赛，期待赛题；奖金多\&奖金名额多；推荐场景（今年推荐相关比赛真的太少了）；数据集为用户行为，目测不会很大
 | [音视频算法大赛](https://challenge.ai.mgtv.com/m) | 视频补全/视频推荐/音乐节奏检测 | 2021.7.12 | 芒果TV | 36w | 赛题很有意思，可以尝试 
 
 
@@ -68,4 +65,7 @@
 | [小布助手对话短文本语义匹配](https://tianchi.aliyun.com/competition/entrance/531851/introduction) | 文本分类 | 2021.4.7 | 天池 | 50w | 脱敏+文本分类 [baseline bert](https://kexue.fm/archives/8213)  
 | [PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction) | 检测\&跟踪 | 2021.4.7 | 天池 | 50w | 数据量大，单张分辨率高
 | [KDD Cup 2021 Track2](https://ogb.stanford.edu/kddcup2021/) | Graph | 2021.4.30 | KDD | / | 数据集250G
+| [Shopee Products Match](https://www.kaggle.com/c/shopee-product-matching/overview) | 度量学习/多模态 | 2021.5.3 | Kaggle \& Shopee | \$ 3w | Code Competition。赛题有意思，工业届真实场景，探索性很强，值得尝试
+| [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation/overview) | 室内导航 | 2021.5.10 | Kaggle \& Microsoft | \$ 1w | 
+| [2021腾讯广告大赛](https://algo.qq.com/) | 视频理解 | 2021.5.31 | 腾讯 | 双赛道 \$ 14.4w + 2.1w| 目测非常烧卡，CV选手上吧...看着和广告没啥关系 
 
